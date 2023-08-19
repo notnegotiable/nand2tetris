@@ -1,7 +1,8 @@
 # nand2tetris
 Here are my projects as prescribed in Nisan and Schocken's "The Elements of Computing Systems." More info can be found at: http://nand2tetris.org/
 
-The projects vary in scope and complexity, from virtually building hardware like elemetary logic gates to implementing a functional OS. 
+The projects vary in scope and complexity, from virtually building hardware like elementary logic gates to 
+implementing a functional OS. 
 In the end, I will have constructed a complete general-purpose computer sytem, essentially from scratch!
 
 - PART 1: HARDWARE
