@@ -6,8 +6,8 @@ implementing a functional OS.
 In the end, I will have constructed a complete general-purpose computer sytem, essentially from scratch!
 
 - PART 1: HARDWARE
-  * Project 01: Boolean Logic (complete: Aug19, 2023
-  * Project 02: Boolean Arithmetic (complete: Aug21, 2023)
+  * Project 01: Boolean Logic (complete: 19/08/23)
+  * Project 02: Boolean Arithmetic (complete: 21/08/23)
   * Project 03: Sequential Logic (in progress. . .)
   * Project 04: Machine Language
   * Project 05: Computer Architecture
