@@ -3,7 +3,7 @@ Here are my projects as prescribed in Nisan and Schocken's "The Elements of Comp
 
 The projects vary in scope and complexity, from virtually building hardware like elementary logic gates to 
 implementing a functional OS. 
-In the end, I will have constructed a complete general-purpose computer sytem, essentially from scratch!
+In the end, I will have constructed a complete general-purpose computer system, essentially from scratch!
 
 - PART 1: HARDWARE
   * Project 01: Boolean Logic (complete: 19/08/23)
